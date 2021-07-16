@@ -13,6 +13,7 @@
 		DBEDAD2426A1A3DD00B4326B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBEDAD2326A1A3DD00B4326B /* Preview Assets.xcassets */; };
 		DBEDAD2F26A1A3DE00B4326B /* LandmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBEDAD2E26A1A3DE00B4326B /* LandmarksTests.swift */; };
 		DBEDAD3A26A1A3DE00B4326B /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBEDAD3926A1A3DE00B4326B /* LandmarksUITests.swift */; };
+		DBEDAD4826A1AFCF00B4326B /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBEDAD4726A1AFCF00B4326B /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		DBEDAD3526A1A3DE00B4326B /* LandmarksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LandmarksUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBEDAD3926A1A3DE00B4326B /* LandmarksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITests.swift; sourceTree = "<group>"; };
 		DBEDAD3B26A1A3DE00B4326B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DBEDAD4726A1AFCF00B4326B /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				DBEDAD1C26A1A3DC00B4326B /* LandmarksApp.swift */,
 				DBEDAD1E26A1A3DC00B4326B /* ContentView.swift */,
 				DBEDAD2026A1A3DD00B4326B /* Assets.xcassets */,
+				DBEDAD4726A1AFCF00B4326B /* CircleImage.swift */,
 				DBEDAD2526A1A3DD00B4326B /* Info.plist */,
 				DBEDAD2226A1A3DD00B4326B /* Preview Content */,
 			);
@@ -261,6 +264,7 @@
 			files = (
 				DBEDAD1F26A1A3DC00B4326B /* ContentView.swift in Sources */,
 				DBEDAD1D26A1A3DC00B4326B /* LandmarksApp.swift in Sources */,
+				DBEDAD4826A1AFCF00B4326B /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
