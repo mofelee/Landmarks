@@ -17,7 +17,7 @@ struct Badge: View {
             )
         }
         .opacity(0.5)
-    }g
+    }
     
     var body: some View {
         ZStack {
